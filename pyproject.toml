@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "highseas-drmgame"
-version = "0.1.0"
+version = "0.1.1"
 description = "A game with Abhyudaya Taneja"
 authors = ["Abhijay Bidari <craftyryte2011@gmail.com>"]
 license = "MIT"
