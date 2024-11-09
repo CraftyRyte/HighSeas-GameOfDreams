@@ -35,7 +35,7 @@ jobs:
         uses: softprops/action-gh-release@master
         with:
           append_body: true
-          body_path: "./fin_body.md"
+          body_path: "./changes.md"
           tag_name: ${{ env.REVISION }}
           name: "Release ${{ env.REVISION }}"
           generate_release_notes: true
